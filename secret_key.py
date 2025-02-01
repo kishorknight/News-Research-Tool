@@ -1,2 +1,2 @@
-google_api_key = "AIzaSyDjJ8DOw2YTwB3NSsKkjDQBOSpLtHChgU8"
-serpapi_key = "9480141dda5b7239178f51bc823fd7487df965ef20d9f3ca7cd73037d8abb89f"
+google_api_key = "Your gemini key"
+serpapi_key = "your serpapi key"
